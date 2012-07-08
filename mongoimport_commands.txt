@@ -1,0 +1,5 @@
+mongoimport -db demo -c markers sourceJSON/markers.json
+mongoimport -db demo -c events sourceJSON/events.json
+
+  
+
